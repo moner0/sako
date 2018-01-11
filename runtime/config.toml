@@ -1,13 +1,13 @@
-# The Monero daemon and Monero RCP client IP and port.
-daemon = "node.moneroworld.com:18089"
-rpc = "127.0.0.1:18082"
+# The Mynt daemon and Mynt RCP client IP and port.
+daemon = "127.0.0.1:24090"
+rpc = "127.0.0.1:22092"
 
-# Your Monero RPC client username and password.
+# Your Mynt RPC client username and password.
 username = "onodera"
 password = "seekrit"
 
 # The IP and port to host sako on.
 host = "127.0.0.1:8080"
 
-# The currency to compare XMR to, choose between `USD` or `EUR`.
-currency = "EUR"
+# The currency to compare XSM to, choose between `USD` or `EUR`.
+currency = "USD"
