@@ -7,7 +7,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/olahol/melody"
-	"github.com/onodera-punpun/sako/monero"
+	"github.com/mynt-project/sako/monero"
 )
 
 var wallet *monero.Wallet
